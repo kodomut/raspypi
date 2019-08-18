@@ -13,3 +13,4 @@ make
 sudo make install
 sudo pip3 install --upgrade pip
 ```
+Latest versions of Python can be found at https://www.python.org/ftp/python/. Replace the *wget* links with the desired version. Remember to chage the *tar* and *cd* codes with the updated version downloaded.
